@@ -1,0 +1,22 @@
+{
+  "name": "video-to-gif-js",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@ffmpeg/ffmpeg": "^0.9.5",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
+    "vue": "^3.0.2"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.2",
+    "babel-eslint": "^10.1.0",
+    "eslint": "7.2.0",
+    "eslint-config-airbnb-base": "14.2.0",
+    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "vite": "^1.0.0-rc.9"
+  }
+}
